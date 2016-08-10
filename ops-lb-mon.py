@@ -1,6 +1,8 @@
 # coding: utf-8
 #!/usr/bin/python
 
+__author__ = "AJ NOURI (ajn.bin@gmail.com): cciethebeginning.wordpress.com"
+
 import paramiko
 import pexpect
 import re
